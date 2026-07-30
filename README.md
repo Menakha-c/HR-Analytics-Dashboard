@@ -79,7 +79,7 @@ Add your screenshot here:
 Open:
 
 Python/HR_Analytics_EDA.ipynb
-```
+
 
 Run all cells to perform data cleaning and exploratory analysis.
 
@@ -88,7 +88,7 @@ Run all cells to perform data cleaning and exploratory analysis.
 Execute:
 
 SQL/HR_Queries.sql
-```
+
 
 in **MySQL Workbench**.
 
