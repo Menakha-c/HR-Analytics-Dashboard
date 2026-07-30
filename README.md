@@ -77,18 +77,18 @@ Add your screenshot here:
 ### Python
 
 Open:
-
+```text
 Python/HR_Analytics_EDA.ipynb
-
+```
 
 Run all cells to perform data cleaning and exploratory analysis.
 
 ### SQL
 
 Execute:
-
+```text
 SQL/HR_Queries.sql
-
+```
 
 in **MySQL Workbench**.
 
