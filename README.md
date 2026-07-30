@@ -68,17 +68,16 @@ HR-Analytics-Dashboard/
 Add your screenshot here:
 
 ![Dashboard](Images/dashboard.png)
-```
+
 
 ---
 
-## ▶️ How to Run
+##  ▶️ How to Run
 
 ### Python
 
 Open:
 
-```text
 Python/HR_Analytics_EDA.ipynb
 ```
 
@@ -88,7 +87,6 @@ Run all cells to perform data cleaning and exploratory analysis.
 
 Execute:
 
-```text
 SQL/HR_Queries.sql
 ```
 
