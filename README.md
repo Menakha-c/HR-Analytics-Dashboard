@@ -67,7 +67,6 @@ HR-Analytics-Dashboard/
 
 Add your screenshot here:
 
-```md
 ![Dashboard](Images/dashboard.png)
 ```
 
@@ -123,5 +122,3 @@ This project demonstrates an **end-to-end business analytics workflow** includin
 ## 👩‍💻 Author
 
 **Menakha Sripriya.C**
-
-Final Year – Artificial Intelligence & Machine Learning
